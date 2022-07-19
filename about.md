@@ -2,9 +2,9 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
-hide_description: true
+    PhD Candidate in Behavioral Economics and Data Science. MIT Sloan Visiting Student on 2022. 
+    Sport and Mountain lover. Nerd.
+hide_description: false
 redirect_from:
   - /download/
 ---
@@ -58,8 +58,8 @@ A portfolio that's guaranteed to be impressive — no matter what you put into i
 <!--projects-->
 
 
-## A Printable Resume
-Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume.pdf).
+## My Resume
+This is my late resume. Last updated on Jul/2022 [PDF](assets/Resume.pdf).
 
 [![Resume PDF](assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
 
