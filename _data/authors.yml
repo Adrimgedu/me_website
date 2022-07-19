@@ -25,9 +25,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <@AdrianMunozG>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter:         <AdrianMunozG>
+    # github:          <username>
+     email:           <adrian.munnoz.garcia@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -56,7 +56,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <adrian-munoz-garcia>
+    linkedin:        <adrian-munoz-garcia>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
